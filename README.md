@@ -1,6 +1,8 @@
 # tail-webserver
 Tail log files directly to webserver
 
+![alt text](doc/demo.png?raw=true)
+
 # Usage
 - configure logfile to tail on line 74
 - node tail.js
